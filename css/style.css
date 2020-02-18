@@ -31,6 +31,7 @@ body {
     overflow-x: hidden;
     height: 100%;
     color: #555;
+
 }
 
 * {
@@ -2905,7 +2906,7 @@ input.hs-button.primary.large{
 
 
 .page-title, .top-page-title {
-  /*background: url(../img/plaza_espana.jpg) no-repeat top center;*/
+  /*background: url("../img/students/daryl_index.jpg") no-repeat top center;*/
   margin-bottom: 0;
   padding: 0;
   height: 275px;
@@ -2916,13 +2917,14 @@ input.hs-button.primary.large{
 .page-title {
   position: relative;
   vertical-align:bottom;
+  text-align: left;
 }
 
 .top-page-title {
-  background: url(../img/j-collins-background.jpg) no-repeat top center;
+
   background-size: 100% 100%;
   margin-bottom: 100px;
-  text-align: center;
+  text-align: left;
 }
 
 .ib-social-icons {
